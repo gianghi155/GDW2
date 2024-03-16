@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "productName": "Charmander Pokémon Pin",
+      "productCode": "CGN-2",
+      "releaseDate": "March 18, 2024",
+      "description": "It's easy to show off your favorite Pokémon wherever you go with an eye-catching Pokémon Pin! Featuring Charmander, the Lizard Pokémon, this collectible accessory is made of shining metal and colorful enamel, and it comes with two rubbery backers for securing to your lapel, lanyard, or bag.",
+      "price": 9.99,
+      "starRating": 4.8,
+      "imageUrl": "./assets/images/2.jpg",
+      "inStock": 25
+    },
+    {
+      "id": "3",
+      "productName": "Bulbasaur Pokémon Pin",
+      "productCode": "CGN-3",
+      "releaseDate": "May 21, 2024",
+      "description": "It's easy to show off your favorite Pokémon wherever you go with an eye-catching Pokémon Pin! Featuring Bulbasaur, the Seed Pokémon, this collectible accessory is made of shining metal and colorful enamel, and it comes with two rubbery backers for securing to your lapel, lanyard, or bag.",
+      "price": 9.99,
+      "starRating": 4.9,
+      "imageUrl": "./assets/images/3.jpg",
+      "inStock": 25
+    },
+    {
+      "id": "4",
+      "productName": "Pichu & Pikachu Pokémon Sweet Support Plush - 7 In.",
+      "productCode": "CGN-4",
+      "releaseDate": "May 15, 2024",
+      "description": "During tough times, long days, or just moments when you need extra comfort, it's important to find time for a big hug—whether it's with friends, loved ones, pets, or Pokémon plush. This Pokémon Sweet Support plush features Pikachu consoling Pichu, as the latter lets out a good cry. The two are connected via a cord, so when you pull them apart, Pichu runs back into Pikachu's arms. Send this pair to someone who needs a little boost of support.",
+      "price": 29.99,
+      "starRating": 4.7,
+      "imageUrl": "./assets/images/4.jpg",
+      "inStock": 25
+    },
+    {
+      "id": "5",
+      "productName": "Azurill & Marill Pokémon Sweet Support Plush - 7 ½ In.",
+      "productCode": "CGN-5",
+      "releaseDate": "October 15, 2023",
+      "description": "During tough times, long days, or just moments when you need extra comfort, it's important to find time for a big hug—whether it's with friends, loved ones, pets, or Pokémon plush. This Pokémon Sweet Support plush features Marill consoling Azurill, as the latter lets out a good cry. The two are connected via a cord, so when you pull them apart, Azurill runs back into Marill's arms. Send this pair to someone who needs that little boost of support.",
+      "price": 29.99,
+      "starRating": 4.8,
+      "imageUrl": "./assets/images/5.jpg",
+      "inStock": 25
+    },
+    {
+      "productName": "Nendoroid Red Posable Fig",
+      "productCode": "CGN-6",
+      "releaseDate": "2024-03-01",
+      "price": 49.99,
+      "description": "This special limited-edition figure captures the spirit of the Pokémon Trainer at its best! You can change Red's expression with three different faces for the right look! Includes a body, three faces, six arms, six hands, three legs, hair and hat, three Pokémon friends: Bulbasaur, Charmander, and Squirtle. The Red figure does not stand on its own. Use included stand.",
+      "starRating": 5,
+      "imageUrl": "./assets/images/6.jpg",
+      "inStock": 5,
+      "id": "6"
+    },
+    {
+      "productName": "Terapagos (Normal Form) Poké Plush - 15 In.",
+      "productCode": "CGN-7",
+      "releaseDate": "2024-03-06",
+      "price": 19.99,
+      "description": "The Legendary Pokémon Terapagos has awakened from its long slumber...and made its way to Pokémon Center as a super-adorable Poké Plush! With twinkly blue eyes and a sweet smile, it looks eager to go on adventures and explore the big, wide world.",
+      "starRating": 4.8,
+      "imageUrl": "./assets/images/7.jpg",
+      "inStock": 25,
+      "id": "7"
+    },
+    {
+      "productName": "Spheal Pokémon Undersea Holiday Plush Key Chain",
+      "productCode": "CGN-8",
+      "releaseDate": "2024-03-07",
+      "price": 14.99,
+      "description": "When the weather outside is frightful, Pokémon celebrate the holidays under the sea! Dressed in a dashing top hat and cozy knit scarf, Spheal is on a roll with its winter outfit—it even brought a matching cane! You can have this cute little Pokémon plush join your own holiday decor by hanging it from a tree or garland with the attached clip.",
+      "starRating": 5,
+      "imageUrl": "./assets/images/8.jpg",
+      "inStock": 25,
+      "id": "8"
+    },
+    {
+      "id": "9",
+      "productName": "Pokémon Delicious Adventure: Kanto Pewter Crunchies Snack Figure",
+      "productCode": "CGN-9",
+      "releaseDate": "2024-03-07",
+      "price": 14.99,
+      "description": "Munch-munch-munch! Ditto can’t get enough of the Kanto region’s famous Pewter Crunchies! The Transform Pokémon chomps its way to a messy kitchen as an adorable figure perfect for adding a dash of whimsy to your collection.",
+      "starRating": 5,
+      "imageUrl": "./assets/images/9.jpg",
+      "inStock": 20
+    },
+    {
+      "id": "10",
+      "productName": "Pokémon Giant Pins: Snorlax Oversize Pin",
+      "productCode": "CGN-10",
+      "releaseDate": "2024-03-08",
+      "price": 24.99,
+      "description": "A Pokémon with a big personality deserves a pin large enough to show it off! Snorlax is here as an enamel-and-metal jumbo pin that brings eye-catching style to your favorite messenger bag or your pin collection at home.",
+      "starRating": 5,
+      "imageUrl": "./assets/images/10.jpg",
+      "inStock": 20
+    },
+    {
+      "id": "11",
+      "productName": "Oshawott Sitting Cuties Plush - 5 In.",
+      "productCode": "CGN-11",
+      "releaseDate": "2024-03-01",
+      "price": 11.99,
+      "description": "The Oshawott Sitting Cuties Plush is weighted with microbeads, so it sits up when you put it on a flat surface. This palm-sized plush is a fun, charming way to show off a favorite Water-type Pokémon originally discovered in Unova!",
+      "starRating": 5,
+      "imageUrl": "./assets/images/11.jpg",
+      "inStock": 20
+    },
+    {
+      "productName": "Eevee Sitting Cuties Plush - 6 ½ In.",
+      "productCode": "CGN-12",
+      "releaseDate": "2024-03-05",
+      "price": 16.99,
+      "description": "The Eevee Sitting Cuties Plush is weighted with microbeads, so it sits up when you put it on a flat surface. This palm-sized plush is a fun, charming way to show off a favorite Normal-type Pokémon originally discovered in Kanto!",
+      "starRating": 5,
+      "imageUrl": "./assets/images/12.jpg",
+      "inStock": 30,
+      "id": "12"
+    }
+  ],
+  "User": [
+    {
+      "id": "1",
+      "username": "",
+      "email": "nghi144@gmail.com",
+      "pass": "123456789"
+    },
+    {
+      "id": "11",
+      "email": "nghi111@gmail.com",
+      "pass": "123456789"
+    },
+    {
+      "id": "111",
+      "email": "gianghi123456789@gmail.com",
+      "pass": "123456789"
+    },
+    {
+      "id": 1,
+      "email": "nghi123@gmail.com",
+      "pass": "123456789"
+    }
+  ]
+}

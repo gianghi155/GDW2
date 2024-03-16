@@ -1,0 +1,16 @@
+<div class="row mt-2 mb-4">
+	<div class="col-lg-4"*ngFor="let item of productHome">
+		<div class="card-deck mt-3">
+			<div class="card"style="height: 500px">
+				<img class="card-img-top p-3"src="{{item.imageUrl}}"width="100%"height="300px"alt="">
+				<div class="card-body text-center">
+					<h4 class="card-title">{{item.productName}}</h4>
+					<p class="card-text">${{item.price}}</p>
+					<button class="btn " style="background-color: pink;" >
+						<a routerLink="/product-details/{{item.id}}" style=" color: white">SEE</a>
+						</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

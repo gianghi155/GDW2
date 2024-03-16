@@ -1,0 +1,16 @@
+export interface LoginForm {
+    email: string,
+    password: string
+}
+
+export interface RegisterForm{
+    email: string,
+    password: string,
+    confirm_password: string
+}
+
+export interface User {
+    id: number;
+    email: string;
+    pass: string;
+}

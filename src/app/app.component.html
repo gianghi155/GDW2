@@ -1,0 +1,60 @@
+
+<div class="container">
+    <nav class="navbar fixed-top  navbar-expand-sm navbar-dark bg" style="background-color: pink;">
+        <!--Brand -->
+		<div class="dropdown mt-2">
+			<button class="btn btn-light " type="button" id="triggerId" data-toggle="dropdown" aria-haspopup="true"
+			aria-expanded="false">
+					<span class="fa fa-bars"></span>
+					</button>
+			<div class="dropdown-menu" aria-labelledby="triggerId">
+				<a class="nav-link"routerLink="/">Home</a>
+				<a class="nav-link"routerLink="/list">Product list</a>
+				<a class="nav-link"routerLink="/userlist">User list</a>
+			</div>
+		</div>
+        <a class="navbar-brand  "href="#" >
+            <img class="brand-logo" style="width: 60px; height:60px; margin-left: 680px;" src="/assets/images/logo5.png"alt="logo"aria-hidden="true" height="25px">
+        </a>
+		
+		<ul class="navbar-nav ml-auto ">
+			<li class="nav-item active">
+				<a class="nav-link"routerLink="/cartlist">
+					<div class="dropdown">
+						<button class="btn btn-secondary " type="button" id="triggerId" data-toggle="dropdown" aria-haspopup="true"
+						aria-expanded="false">
+								<span class="fa fa-shopping-cart"></span>
+					</button>
+					</div>
+				</a>
+			</li>
+			<ng-container *ngIf="!isAuthenticated()">
+				<div class="dropdown mt-2">
+					<button class="btn btn-secondary dropdown-toggle" type="button" id="triggerId" data-toggle="dropdown" aria-haspopup="true"
+					aria-expanded="false">
+							<span class="fa fa-user"></span>
+							</button>
+					<div class="dropdown-menu dropdown-menu-left" aria-labelledby="triggerId">
+						<a class=" dropdown-item"routerLink="/login"href="#">Login</a>
+						<a class="dropdown-item"routerLink="/register"href="#">Register</a>
+					</div>
+				</div>
+			</ng-container>
+			<ng-container *ngIf="isAuthenticated()">
+				<li class="nav-item active">
+					<a class="nav-link text-dark mt-2"(click)="logout()"routerLink="/Logout"href="#"><span class=""></span>Logout</a>
+				</li>
+			</ng-container>
+		</ul>
+    </nav>
+    
+    
+</div>
+<div class="container">
+	<router-outlet></router-outlet>
+
+</div>
+<footer class="text-white" style="background-color: rgb(60, 214, 163); height:150px; text-align: center; padding: 75px; ">
+	<p>Design by Chau Gia Nghi</p>
+</footer>
+
